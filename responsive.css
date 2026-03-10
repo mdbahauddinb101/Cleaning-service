@@ -1,0 +1,38 @@
+@media (min-width:320px) and (max-width:575px) {
+ 
+nav{
+    flex-direction: column;
+}
+ nav ul{
+    flex-direction: column;
+    margin-top: 10px;
+ }
+.banner{
+    padding: 20px 0px;
+}
+.banner-left-part{
+    width: 100%;
+}
+.banner-container {
+  flex-direction: column;
+}
+
+.banner-right-part {
+    width: 100%;
+}
+
+.banner-left-part h1 {
+  
+    font-size: 30px;
+    text-align: center;
+}
+.banner-left-part p {
+  
+    text-align: center;
+}
+
+.button-container{
+    flex-direction: column;
+}
+
+}
