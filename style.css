@@ -111,3 +111,118 @@ nav button{
 
 
 /*=================== header ends============================ */
+
+
+/*================ experience starts ==================*/
+
+.experience-container{
+    display: flex;
+    align-items: center;
+    gap: 156px;
+}
+
+.experience-right-part{
+
+}
+
+
+.under-line{
+    width: 60px;
+    height: 4px;
+    background-color: #37B865;
+    border-radius:20px;
+    margin-bottom: 10px;
+}
+
+
+.experience-right-part h6{
+font-size: 24px;
+font-weight: 400;
+line-height: 180%;
+margin-bottom: 12px;
+color:#37B865;
+}
+
+
+.experience-right-part h2{
+    max-width: 570px;
+font-size: 48px;
+font-weight: 800;
+line-height: 120%;
+margin-bottom: 24px;
+color:rgb(24, 23, 23);
+}
+
+.experience-right-part .pargraph-1{
+    max-width: 570px;
+font-size: 20px;
+font-weight: 400;
+line-height: 180%;
+margin-bottom: 24px;
+color: #486489;
+}
+
+.experience-right-part .pargraph-2{
+    max-width: 570px;
+font-size: 20px;
+font-weight: 400;
+line-height: 180%;
+margin-bottom: 56px;
+color: #486489;
+}
+
+.experience-right-part button{
+    padding: 20px 40px;
+font-size: 20px;
+font-weight: 400;
+line-height: 180%;
+background-color:#247FFB;
+border-radius:100px;
+border: none;
+color: #FFFFFF;
+}
+.experience-left-part{
+    position: relative;
+}
+
+.expo-img-2{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 100;
+}
+
+.expo-img-3{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+}
+
+.expo-img-4{
+    position: absolute;
+    bottom: 10px;
+    right: -48px;
+    z-index: 999;
+}
+
+.expo-img-5{
+    position: absolute;
+    top: -100px;
+    right: -150px;
+    z-index: 999;
+}
+
+.expo-img-6 {
+    position: absolute;
+    top: -30px;
+    left: -30px;
+    z-index: 999;
+}
+
+#experience{
+    padding: 146px 0px 126px 0px;
+    min-height: 900px;
+}
+
+/* =============experience ends=================== */
