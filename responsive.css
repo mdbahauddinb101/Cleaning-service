@@ -1,38 +1,64 @@
-@media (min-width:320px) and (max-width:575px) {
- 
-nav{
+@media (min-width: 320px) and (max-width: 575px) {
+  nav {
     flex-direction: column;
-}
- nav ul{
+  }
+  nav ul {
     flex-direction: column;
     margin-top: 10px;
- }
-.banner{
+  }
+  .banner {
     padding: 20px 0px;
-}
-.banner-left-part{
+  }
+  .banner-left-part {
     width: 100%;
-}
-.banner-container {
-  flex-direction: column;
-}
+  }
+  .banner-container {
+    flex-direction: column;
+  }
 
-.banner-right-part {
+  .banner-right-part {
     width: 100%;
-}
+  }
 
-.banner-left-part h1 {
-  
+  .banner-left-part h1 {
     font-size: 30px;
     text-align: center;
-}
-.banner-left-part p {
-  
+  }
+  .banner-left-part p {
     text-align: center;
-}
+  }
 
-.button-container{
+  .button-container {
     flex-direction: column;
-}
+  }
 
+  /* ========header and banner ends =============*/
+
+  /* ==============experience starts================== */
+
+  .experience-container {
+    flex-direction: column;
+  }
+  .expo-img-5 {
+    right: 0px;
+  }
+
+  .expo-img-1 {
+    width: 100%;
+  }
+
+  .expo-img-4 {
+    right: 4px;
+  }
+
+  .experience-right-part h2 {
+    text-align: center;
+  }
+
+  .experience-right-part button {
+    display: block;
+    margin: 0 auto;
+  }
+
+  /* ==============experience ends======================= */
 }
