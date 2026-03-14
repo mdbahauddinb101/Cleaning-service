@@ -61,4 +61,21 @@
   }
 
   /* ==============experience ends======================= */
+
+  /* ========================counting starts======================== */
+#counting{
+  height: auto;
 }
+}
+.counting-container div{
+    max-width: 100%;
+    height: auto;
+  border-width: 0px 0px 1px 0px; 
+  text-align: center;
+  align-items:center;
+
+   border-width: 0px px 5px 0px; 
+}
+
+/*=============== counting ends======================= */
+

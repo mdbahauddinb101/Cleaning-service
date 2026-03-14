@@ -226,3 +226,44 @@ color: #FFFFFF;
 }
 
 /* =============experience ends=================== */
+
+
+/* =============counting starts=================== */
+#counting{
+    height: 273px;
+    background-color:#003173;
+    padding: 91px 0px;
+}
+
+.counting-container{
+    display: flex ;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.counting-container div{
+    max-width: 310px;
+    padding: 0px 61px;
+
+  border-width: 0px 5px 0px 0px; 
+  border-style: solid solid solid solid; 
+  border-color: #37B865;
+}
+
+.counting-container div h2{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 120%;
+    color: #FFFFFF;
+}
+
+.counting-container div p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 180%;
+    color: #FFFFFF;
+}
+
+
+/* =============counting ends=================== */
