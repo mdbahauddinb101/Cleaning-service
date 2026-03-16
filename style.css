@@ -267,3 +267,92 @@ color: #FFFFFF;
 
 
 /* =============counting ends=================== */
+
+
+/*============== area section starts ==================*/
+#area{
+    padding: 110px 0px;
+    position: relative;
+}
+
+.img-arrow-area-1 {
+    position: absolute;
+    bottom: 286px;
+    left: 200px;
+}
+
+.img-arrow-area-2 {
+    position: absolute;
+    bottom: 286px;
+    right: 200px;
+}
+
+.hr-area{
+    width: 70px;
+    height: 3px;
+    color:#37B865;
+    background-color:#37B865;
+    margin: 0 auto;;
+}
+.area-container{
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+}
+
+.area-container h4{
+  margin-bottom: 12px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 180%;
+  color: #37B865;
+}
+
+.area-container h2{
+ max-width: 690px;
+  padding-bottom: 24px;
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 120%;
+  color: #001838;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.area-container p{
+ max-width: 670px;
+  padding-bottom: 56px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 180%;
+  color: #486489;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.area-card-container{
+    display: flex;
+    gap:60px;
+}
+
+.area-card{
+    max-width: 386px;
+    height: auto;
+    text-align: center;
+    align-items:center;
+    padding: 70px 30px;
+    box-shadow: -24px 30px 45px -6px rgba(143, 143, 143, .15);
+}
+
+.area-card img{
+  padding-bottom: 48px;
+}
+.area-card h3{
+  padding-bottom: 24px;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 120%;
+  color: #001838;
+}
+
+/*============== area section endss ==================*/
