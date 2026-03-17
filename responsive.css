@@ -83,5 +83,25 @@
 }
 
 /*=============== counting ends======================= */
+
+
+
+/* ==============area section starts============== */
+.area-card-container {
+    gap: 0px;
+    flex-direction: column;
 }
+
+.img-arrow-area-2 {
+   bottom: 40px;
+}
+
+.img-arrow-area-1 {
+    bottom: 40px;
+}
+
+/* =============area section ends =====================*/
+
+}
+
 
