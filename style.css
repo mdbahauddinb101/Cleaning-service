@@ -356,3 +356,76 @@ color: #FFFFFF;
 }
 
 /*============== area section endss ==================*/
+
+/* =============expertise section starts ==================*/
+#expertise{
+    padding: 120px 0px;
+}
+.hr-area-2{
+    width: 100px;
+    height: 3px;
+    background-color:#038f34;
+    border-radius:10px;
+}
+
+.expert-container{
+}
+    
+
+.expert-container div{
+       max-width: 220px ;
+       height: 160px;
+       border: 1px solid #FFD9D9
+}
+
+.expert-container h4{
+     font-style: italic;
+     font-weight: 400;
+     line-height: 180%;
+     font-size: 18px;
+     color: #486489;
+     padding-top: 23px;
+     text-align: center;
+}
+
+#expertise .col-4 h4{
+    margin-bottom: 12px;
+}
+
+#expertise .col-4 h2{
+    margin-bottom: 24px;
+    max-width: 368px;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 120%;
+    color: #001838;
+}
+
+
+#expertise .col-4 p{
+    margin-bottom: 56px;
+    max-width: 366px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 180%;
+    color: #486489;
+}
+
+
+#expertise .col-4 button{
+     padding: 20px 40px;
+font-size: 20px;
+font-weight: 400;
+line-height: 180%;
+background-color:#247FFB;
+border-radius:100px;
+border: none;
+color: #FFFFFF;
+}
+
+.center{
+    align-items:center;
+}
+ 
+
+/* =============expertise section ends ==================*/
