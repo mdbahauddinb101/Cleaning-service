@@ -429,3 +429,67 @@ color: #FFFFFF;
   /* .gap{gap: 10px;} */
 
 /* =============expertise section ends ==================*/
+
+/*=========== projects section start=====================*/
+#projects{
+    background-color:rgba(0, 49, 115, .95);
+    height: 560px;
+   
+}
+
+.projects-container{
+    display: flex;
+    gap:72px;
+}
+
+.projects-container{
+    padding-top: 84px;
+}
+
+.projects-left h4{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 180%;
+    color: #37B865;
+    margin-bottom: 12px;
+}
+
+
+.projects-left h2{
+    max-width:500px;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 120%;
+    color: #FFFFFF;
+}
+
+.projects-right{
+    display: flex;
+    align-items:end;
+
+}
+
+
+
+
+.projects-right P{
+    max-width: 650px;
+    font-weight: 400;
+    line-height: 180%;
+    color: #FFFFFF;
+    font-size: 20PX;
+
+}
+.projects{
+     position: relative;
+}
+
+.image-projects-container {
+    display: flex;
+    gap: 30px;
+    position: absolute;
+    bottom: -150%;
+    right: 0%;
+}
+
+/*================ projects section ends=========================== */
