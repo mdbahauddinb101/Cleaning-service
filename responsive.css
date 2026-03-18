@@ -102,6 +102,31 @@
 
 /* =============area section ends =====================*/
 
+
+/*================ expertise section starts ===========*/
+#expertise .col-sm-4 h2 {
+    text-align: center;
+}
+#expertise .col-sm-4 p {
+    text-align: center;
 }
 
+#expertise .col-sm-4 button {
+  display: block;
+  margin: 0 auto;
+margin-bottom: 20px;
 
+}
+
+#expertise .col-sm-6 img {
+width: 100%;
+margin-bottom: 20px;
+
+}
+.expert-1, .expert-2, .expert-3 {
+  display: block;
+  margin: 0 auto;
+}
+/*================ expertise section ends ===========*/
+
+}

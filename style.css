@@ -388,11 +388,11 @@ color: #FFFFFF;
      text-align: center;
 }
 
-#expertise .col-4 h4{
+#expertise .col-sm-4 h4{
     margin-bottom: 12px;
 }
 
-#expertise .col-4 h2{
+#expertise .col-sm-4 h2{
     margin-bottom: 24px;
     max-width: 368px;
     font-size: 48px;
@@ -402,7 +402,7 @@ color: #FFFFFF;
 }
 
 
-#expertise .col-4 p{
+#expertise .col-sm-4 p{
     margin-bottom: 56px;
     max-width: 366px;
     font-size: 20px;
@@ -412,7 +412,7 @@ color: #FFFFFF;
 }
 
 
-#expertise .col-4 button{
+#expertise .col-sm-4 button{
      padding: 20px 40px;
 font-size: 20px;
 font-weight: 400;
@@ -426,6 +426,6 @@ color: #FFFFFF;
 .center{
     align-items:center;
 }
- 
+  /* .gap{gap: 10px;} */
 
 /* =============expertise section ends ==================*/
