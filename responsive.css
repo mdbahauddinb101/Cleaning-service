@@ -129,4 +129,31 @@ margin-bottom: 20px;
 }
 /*================ expertise section ends ===========*/
 
+/*================ projects starts ==================*/
+.projects-container {
+  flex-direction: column;
 }
+
+#projects {
+
+    height: auto;
+}
+
+
+.image-projects-container img{
+   width: 40%;
+}
+
+
+.image-projects-container {
+    flex-wrap: wrap;
+    gap: 30px;
+    position: static;
+    justify-content: center;
+}
+/*================ projects ends ==================*/
+
+}
+
+
+
