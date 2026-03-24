@@ -153,6 +153,35 @@ margin-bottom: 20px;
 }
 /*================ projects ends ==================*/
 
+/*=============== feedback starts =================*/
+
+.pre-feedback-container {
+    flex-direction: column;
+ 
+}
+
+.feedback-mini-card-container {
+    flex-direction: column;
+    gap: 0px;
+    
+}
+
+#projects {
+
+    margin-bottom: 0px;
+}
+
+
+.feedback-container h2 {
+
+    font-size: 28px;
+
+    padding: 20px;
+
+    text-align: center;
+}
+
+
 }
 
 
