@@ -494,3 +494,59 @@ color: #FFFFFF;
 }
 
 /*================ projects section ends=========================== */
+
+/* ===============feedback section starts =========================*/
+#feedback{
+    height: 739px;
+    padding: 100px 0px;
+    margin-bottom: 200px;
+}
+.feedback-container{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.feedback-container h2{
+    max-width: 600px;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 120%;
+    color: #001838;
+}
+
+
+.feedback-container h4{
+    font-style: italic;
+}
+
+.pre-feedback-container{
+    display: flex;
+    align-items: center;
+}
+.feedback-mini-card-container{
+  display: flex;
+  gap: 30px;
+}
+
+
+.feedback-mini-card-container p{
+    max-width: 390px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 180%;
+    color: #486489;
+    text-align: left;
+}
+
+.feedback-mini-card-container div{
+    text-align: center;
+    box-shadow: 22px 29px 111px -4px rgb(201, 201, 244, .4);
+    padding: 35px;
+}
+
+.feedback-card .feedback-heading{
+    text-align: center;
+    margin-top: 20px;
+}
+
