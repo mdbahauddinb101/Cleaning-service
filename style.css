@@ -551,3 +551,119 @@ color: #FFFFFF;
 }
 
 /* ================feedback section ends =======================*/
+
+
+/* ==================work section starts ========================*/
+
+.news-container{
+    text-align: center;
+    padding-bottom: 56px;
+}
+
+.center-news{
+    margin: 0 auto;
+}
+
+
+.news-container h2{
+    max-width: 751px;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 120%;
+    color: #000000;
+    margin: 0 auto;
+}
+
+.news-container h6{
+   color:#37B865;
+   padding-top: 5px;
+   font-size: 24px;
+   font-weight: 400;
+   line-height: 180%;
+}
+
+.case{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.case .case-h4{
+    border-right-color: #038f34;
+    border-right-style: solid;
+    border-right-width: 2px;
+    padding-right: 10px;
+}
+
+.case .case-h4-2{
+    padding-left: 30px;
+}
+
+.case h4{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 120%;
+    color: #038f34;
+}
+
+
+.work-card p{
+    max-width: 310px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 170%;
+    color: #486489;
+    text-align: left;
+    margin-top: 20px;
+}
+
+
+
+.work-card h5{
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 140%;
+    color: #000000;
+}
+
+.work-card p{
+    max-width: 310px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 170%;
+    color: #486489;
+    text-align: left;
+}
+
+.work-card img{
+margin-bottom: 52px;
+width: 100%;
+}
+
+.work-card{
+    box-shadow: 22px 29px 111px -4px rgb(201, 201, 244, .4);
+
+    text-align: left;
+
+    position: relative;
+}
+
+.relative-div{
+    display: flex;
+    gap: 8px;
+    border-radius: 5px;
+    background-color: #37B865;
+    padding: 5px;
+    color:#FFFFFF;
+    width: 147px;
+    height: 64px;
+    position: absolute;
+    bottom: 208px;
+    left: 25px;
+}
+
+.work-card-container{
+display: flex;
+gap: 30px;
+margin-bottom: 110px;
+}
