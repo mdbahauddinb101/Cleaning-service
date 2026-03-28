@@ -554,7 +554,12 @@ color: #FFFFFF;
 
 
 /* ==================work section starts ========================*/
-
+#work{
+    min-height: 770px;
+    padding: 100px 0px;
+    margin-bottom: 110px;
+    
+}
 .news-container{
     text-align: center;
     padding-bottom: 56px;
@@ -665,5 +670,6 @@ width: 100%;
 .work-card-container{
 display: flex;
 gap: 30px;
-margin-bottom: 110px;
 }
+
+/*=============== ================work section ends ========================*/

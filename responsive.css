@@ -181,6 +181,24 @@ margin-bottom: 20px;
     text-align: center;
 }
 
+.feedback-card {
+    text-align: center;
+    
+}
+/* ===================feedback section ends======================= */
+
+
+/* ===================work section startss =========================*/
+.work-card-container {
+   flex-direction: column;
+}
+
+#work {
+  
+    padding-top: 1080px;
+  
+}
+
 
 }
 
