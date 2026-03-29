@@ -673,3 +673,50 @@ gap: 30px;
 }
 
 /*=============== ================work section ends ========================*/
+
+/*===================== footer starts here================================== */
+#footer{
+ background-color: #0B3A77;
+ padding-top: 140px;
+ padding-bottom: 40px;
+}
+
+
+.col-5 p{
+    max-width: 449px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 180%;
+    color: #FEFEFE;
+    text-align: left;
+}
+.row{
+    color:white;
+}
+
+.row ul{
+    list-style-type: none;
+}
+
+.footer-2{
+    display: flex;
+    justify-content: space-between;
+    color:wheat;
+    padding-top: 80px;
+}
+
+.footer-logo{
+    margin-bottom: 44px;
+}
+
+#footer .row ul li:first-child{
+    margin-bottom: 40px;
+}
+
+#footer .row ul li{
+    margin-bottom: 30px;
+    font-weight: 300;
+    line-height: 120%;
+}
+
+/*===================== footer ends here================================== */
